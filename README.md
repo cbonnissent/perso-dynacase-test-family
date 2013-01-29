@@ -1,0 +1,1 @@
+# A dynacase family with all attributes
