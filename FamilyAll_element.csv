@@ -1,5 +1,6 @@
 BEGIN;;all elements;;;TEST_ALL_ELEMENT;;;;;;;;;;;
 DFLDID;auto;;;;;;;;;;;;;;;
+TAGABLE;public;
 //;idattr;idframe;label;T;A;type;ord;vis;need;link;phpfile;phpfunc;elink ;constraint ;option;Commentaires
 ATTR;TEST_ALL_ELEMENT_F_TITLE;;Titre;N;N;frame;100;W;;;;;;;;
 ATTR;TEST_ALL_ELEMENT_TITLE;TEST_ALL_ELEMENT_F_TITLE;Title;Y;N;text ;110;W;;;;;;;;
